@@ -49,8 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ~~~
-Developed By : Vishal Gowthaman K R
-Reg No :212221230123
+Developed By : Javith Farkhan S
+Reg No : 212221240017
 ~~~
 ~~~
 import numpy as np
@@ -76,5 +76,5 @@ print("The Hean arrival rate is %.3f "%mean)
 print ("The Variance of arrival from feeder is %.3f"%var)
 print ("The Standard deviation of arrival from feeder is %.3F"%SD)
 ~~~
-# Results and Output : 
+# Output : 
 ![Output](https://user-images.githubusercontent.com/93427182/192949486-823933ae-c7e1-4c3e-838c-f9a54b6d2c8d.png)
